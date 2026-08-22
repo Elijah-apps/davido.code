@@ -1,4 +1,4 @@
-```markdown
+
 # 🤖 Davido – VS Code Coding Agent
 
 > *“Code like a pro, vibe like a legend.”*  
